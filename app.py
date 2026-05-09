@@ -56,7 +56,7 @@ st.markdown(f"""
 
 # --- CABECERA ---
 st.title("🏓 AI Coach: Análisis de Saque")
-st.write("Prototipo de interfaz para el Datathon 2026 - FIME")
+st.write("Prototipo de interfaz para el Hackaton Roboborregos 2026")
 
 # --- LAYOUT PRINCIPAL ---
 col_izq, col_der = st.columns([1.2, 0.8], gap="large")
